@@ -1,0 +1,28 @@
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\LCT\LibrarySystem\bin\Debug\net9.0\LibrarySystem.exe
+C:\Users\LCT\LibrarySystem\bin\Debug\net9.0\LibrarySystem.deps.json
+C:\Users\LCT\LibrarySystem\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+C:\Users\LCT\LibrarySystem\bin\Debug\net9.0\LibrarySystem.dll
+C:\Users\LCT\LibrarySystem\bin\Debug\net9.0\LibrarySystem.pdb
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.dll
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\refint\LibrarySystem.dll
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.pdb
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\LCT\LibrarySystem\obj\Debug\net9.0\ref\LibrarySystem.dll
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\bin\Debug\net9.0\LibrarySystem.exe
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\bin\Debug\net9.0\LibrarySystem.deps.json
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\bin\Debug\net9.0\LibrarySystem.dll
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\bin\Debug\net9.0\LibrarySystem.pdb
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.dll
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\refint\LibrarySystem.dll
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.pdb
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\LCT\Desktop\وظائف 25\IPG203\IPG203_S2\LibrarySystem\obj\Debug\net9.0\ref\LibrarySystem.dll
